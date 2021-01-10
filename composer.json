@@ -1,0 +1,9 @@
+{
+    "name": "fncong/laravel-validate",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Validation": "src/"
+        }
+    }
+}
